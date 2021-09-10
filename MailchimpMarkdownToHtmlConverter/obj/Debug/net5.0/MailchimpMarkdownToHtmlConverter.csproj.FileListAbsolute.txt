@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\bin\Debug\net5.0\MailchimpMarkdownToHtmlConverter.exe
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\bin\Debug\net5.0\MailchimpMarkdownToHtmlConverter.deps.json
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\bin\Debug\net5.0\MailchimpMarkdownToHtmlConverter.runtimeconfig.json
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\bin\Debug\net5.0\MailchimpMarkdownToHtmlConverter.runtimeconfig.dev.json
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\bin\Debug\net5.0\MailchimpMarkdownToHtmlConverter.dll
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\bin\Debug\net5.0\ref\MailchimpMarkdownToHtmlConverter.dll
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\bin\Debug\net5.0\MailchimpMarkdownToHtmlConverter.pdb
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\MailchimpMarkdownToHtmlConverter.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\MailchimpMarkdownToHtmlConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\MailchimpMarkdownToHtmlConverter.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\MailchimpMarkdownToHtmlConverter.AssemblyInfo.cs
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\MailchimpMarkdownToHtmlConverter.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\MailchimpMarkdownToHtmlConverter.dll
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\ref\MailchimpMarkdownToHtmlConverter.dll
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\MailchimpMarkdownToHtmlConverter.pdb
+C:\Users\danie\source\repos\MailchimpMarkdownToHtmlConverter\MailchimpMarkdownToHtmlConverter\obj\Debug\net5.0\MailchimpMarkdownToHtmlConverter.genruntimeconfig.cache
